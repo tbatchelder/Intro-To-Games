@@ -1,8 +1,11 @@
 # Purpose
 
 **Author**: Timothy Batchelder  
-**Date**: 02/09/2025
+**Date**: 03/25/2025
 
-The purpose of this git repository is to start learning about game design. This will be an initial attempt at writing a full program following the HTML 5 2D Game Programming book. It's a bit outdated, sure, but we still should be able to learn what works, what doesn't and something about Canvas at the least.
+The primary goal of this repository is to provide a comprehensive learning experience in 2D game development using modern web technologies. Through this project, we aim to:
 
-This will also be used as a tutorial that others should be able to follow along on. Each chapter in this repo will correspond to a chapter from the book. The chapter will include any notes, issues and resolutions which are found along the way.
+- Develop a practical understanding of game programming concepts.
+- Learn game development techniques through hands-on project creation.
+- Explore the capabilities of HTML5 Canvas and modern web game development.
+- Create a step-by-step tutorial that other learners can easily follow.

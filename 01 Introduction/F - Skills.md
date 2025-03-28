@@ -1,16 +1,28 @@
 # Skills needed for Web Game Development
 
-So you want to make a web game. Ok, but what skills do you need in order to do so?
+So you want to make a web game. But what skills do you really need to bring your game to life?
 
-Creating games is an intricate and demanding job, requiring a blend of skills and tools. Having the right tools in your arsenal can significantly impact your success.
+Creating games is an intricate and demanding discipline that requires a unique blend of technical expertise, creative thinking, and strategic problem-solving. Success in game development hinges not just on having the right tools, but on developing a comprehensive skill set that spans multiple domains.
 
-Having the right tools in your toolbox is essenctial for streamlining workflows, enhancing game performance and improving the player experience. Whether you're developing a small mobile game or a large-scale PC/Console game, from concept art to coding and debuggin, the tools you choose will shape the outcome of your game.
+The tools and skills you develop will directly impact your ability to:
 
-Gathered below are research notes I've run across on the skills needed, sorted by what I feel is most important for each section.
+- Design engaging game mechanics
+
+- Write efficient, performant code
+
+- Create compelling visual and audio experiences
+
+- Optimize game performance
+
+- Solve complex technical challenges
+
+This section breaks down the essential skills for web game development, organized by their importance and practical application. Each skill represents a critical component in transforming your game concept into a playable reality.
+
+Whether you're aiming to create a simple browser-based game or a more complex web game experience, understanding and developing these skills will be crucial to your success.
 
 ## The Hard Skills
 
-These skills are not "hard" in the sense that they are difficult to learn the basics of but are instead the knowledge skills you will need to program the game.
+These skills are called "hard skills" because they represent the specific technical knowledge required to program your game. Unlike soft skills, these are concrete, teachable abilities that form the foundation of game development.
 
 - _HTML / CSS / JavaScript_
 
